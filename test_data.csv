@@ -1,0 +1,6 @@
+
+first_name,last_name,id,last_seen,sex,followers_count,country_id,country_title,city_id,city_title,bdate,byear,contacts,connections,can_write_private_message,can_post
+John,Smith,470001001,15.03.2024,1,1250,1,United States,101,New York,12.06.1985,1985,,,1,1
+Maria,Garcia,470001002,10.03.2024,2,3400,55,Brazil,201,São Paulo,25.09.1992,1992,,,1,0
+Alex,Wong,470001003,05.03.2024,1,875,86,China,301,Shanghai,03.12.1990,1990,,,0,1
+Sophie,Dubois,470001004,01.03.2024,2,2150,33,France,401,Paris,18.07.1988,1988,,,1,1
